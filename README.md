@@ -17,6 +17,6 @@ Running
       -Sloped intesecting lines are not compatable yet with this program.
       -The angle for the triangular shape is the angle of the bottom edge on either side, the shape will always be isosceles.
       -The resolution can be as high as you want but no lower than 20.
-      -The cuts indicate layers in which to cut the object. Only 10 are allowed in this implimentation. Cuts must be entered in order from least to greatest for accurate rendering. The locatoin of a cut cannot exceed the size of the resolution.
+      -Cuts indicate layers in which to cut the object. Only 10 are allowed in this implimentation. Cuts must be entered in order from least to greatest for accurate rendering. The locatoin of a cut cannot exceed the size of the resolution.
 
 4.  The STL file will appear in the folder containing the program. STL is importable to almost any 3D modelling or printing software.
