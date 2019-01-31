@@ -35,6 +35,7 @@ double real_distance(double Ax, double Ay, double Bx, double By);
 void triangle_print(FILE *file);
 void rectangular_print(FILE *file);
 void square_print(FILE *file);
+
 int main(int argc, char **argv)
 {
 	char stl[] = ".stl";

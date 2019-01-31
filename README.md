@@ -20,3 +20,5 @@ Running
 	-Cuts indicate layers in which to cut the object. Only 10 are allowed in this implimentation. Cuts must be entered in order from least to greatest for accurate rendering. The locatoin of a cut cannot exceed the size of the resolution.  
 
 4.  The STL file will appear in the folder containing the program. STL is importable to almost any 3D modelling or printing software.
+
+5.	Nothing else to say
